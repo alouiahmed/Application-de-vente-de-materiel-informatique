@@ -1,0 +1,16 @@
+2021-10-17 00:26:08 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS[*]"
+Syntax error in SQL statement "SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS[*]"; SQL statement:
+SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS [42000-200]
+2021-10-17 00:26:10 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS[*]"
+Syntax error in SQL statement "SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS[*]"; SQL statement:
+SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS [42000-200]
+2021-10-17 00:26:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS[*] USERS"
+Syntax error in SQL statement "SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS[*] USERS"; SQL statement:
+SELECT * FROM USER_ROLE USERS_DETAILS USERS_DETAILS USERS [42000-200]
+2021-10-17 00:26:51 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "SELECT * FROM USERS_DETAILS USERS USERS_DETAILS[*]"
+Syntax error in SQL statement "SELECT * FROM USERS_DETAILS USERS USERS_DETAILS[*]"; SQL statement:
+SELECT * FROM USERS_DETAILS USERS USERS_DETAILS [42000-200]
