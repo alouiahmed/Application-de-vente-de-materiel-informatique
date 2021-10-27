@@ -2,6 +2,11 @@
 Projet : Application vente de matèriel informatique
 
 
+### Project architecture
+
+![image](https://user-images.githubusercontent.com/60757235/139142686-251d765e-f4be-401a-9f89-07cc5482f6cc.png)
+
+
 ### 5 microservices:
 
 *user-service (port:8811)
