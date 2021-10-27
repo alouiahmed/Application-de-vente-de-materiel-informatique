@@ -18,7 +18,7 @@ Projet : Application vente de matèriel informatique
 
 *eureka-server(port:8761)
 
-*config-server(portt:8888)
+*config-server(port:8888)
 
 *gateway-service(port:8762)
 
